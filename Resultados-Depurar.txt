@@ -1,0 +1,426 @@
+﻿'iisexpress.exe' (CoreCLR: DefaultDomain): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Private.CoreLib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\proyectofinal.dll' cargado. Símbolos cargados.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Server.IIS.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Hosting.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\netstandard.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Hosting.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Hosting.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Configuration.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.DependencyInjection.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.DependencyInjection.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Logging.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Collections.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.ComponentModel.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.IO.FileSystem.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Hosting.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Configuration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Configuration.EnvironmentVariables.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Primitives.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Linq.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Server.Kestrel.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Server.Kestrel.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.InteropServices.RuntimeInformation.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Server.IISIntegration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Configuration.CommandLine.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Razor.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.FileProviders.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.FileProviders.Physical.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Memory.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Configuration.FileExtensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Configuration.Binder.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Configuration.Json.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Configuration.UserSecrets.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.InteropServices.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.IO.FileSystem.Watcher.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.ComponentModel.Primitives.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Collections.Concurrent.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.FileSystemGlobbing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.Overlapped.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\Microsoft.Win32.Primitives.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Text.Json.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Text.Encoding.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Numerics.Vectors.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.CompilerServices.Unsafe.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Options.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Logging.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Logging.EventLog.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Logging.Configuration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Options.ConfigurationExtensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Logging.Console.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Logging.Debug.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Logging.EventSource.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Diagnostics.Tracing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Diagnostics.DiagnosticSource.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Http.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Http.Features.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Http.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.Razor.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.RazorPages.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Connections.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Net.Primitives.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.HostFiltering.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.HttpOverrides.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Routing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.ObjectPool.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Routing.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.ObjectModel.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Authentication.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Authentication.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Security.Claims.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\NSwag.AspNetCore.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.ApiExplorer.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.Loader.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\proyectofinal.Views.dll' cargado. Símbolos cargados.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Authorization.Policy.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Authorization.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.DataAnnotations.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Razor.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.ViewFeatures.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Linq.Expressions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Components.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.JSInterop.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.DataProtection.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.DataProtection.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Cryptography.Internal.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Antiforgery.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.WebEncoders.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Text.Encodings.Web.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.Intrinsics.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Caching.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Caching.Memory.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Mvc.TagHelpers.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\NSwag.Generation.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\NJsonSchema.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\NSwag.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.OpenApi.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.Localization.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.ThreadPool.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.Thread.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Console.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.Tasks.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\System.Diagnostics.EventLog.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Collections.Specialized.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.ComponentModel.TypeConverter.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\Microsoft.Win32.Registry.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Xml.XDocument.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Private.Xml.Linq.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Private.Xml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Security.Cryptography.Algorithms.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Text.RegularExpressions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Reflection.Emit.ILGeneration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Reflection.Emit.Lightweight.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Reflection.Primitives.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Private.Uri.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Diagnostics.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.HttpsPolicy.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.StaticFiles.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Namotion.Reflection.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Newtonsoft.Json.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.FileProviders.Embedded.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Net.Http.Headers.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Collections.Immutable.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Security.Cryptography.Primitives.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Buffers.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.Extensions.FileProviders.Composite.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Diagnostics.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Html.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.ComponentModel.Annotations.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Metadata.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\System.IO.Pipelines.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Security.Cryptography.X509Certificates.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.WebUtilities.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'Anonymously Hosted DynamicMethods Assembly' cargado. 
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.10\Microsoft.AspNetCore.Http.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Net.WebSockets.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Security.Principal.Windows.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El subproceso 0x42cc terminó con código 0 (0x0).
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Data.Common.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Transactions.Local.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Net.NetworkInformation.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Linq.Queryable.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.Timer.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Resources.ResourceManager.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Xml.ReaderWriter.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Net.WebClient.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Text.Encoding.CodePages.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Diagnostics.Process.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El subproceso 0x54d0 terminó con código 0 (0x0).
+El subproceso 0x2964 terminó con código 0 (0x0).
+El subproceso 0x4ab8 terminó con código 0 (0x0).
+El subproceso 0x1fa4 terminó con código 0 (0x0).
+El subproceso 0x42b4 terminó con código 0 (0x0).
+El subproceso 0x3178 terminó con código 0 (0x0).
+El subproceso 0x4ac8 terminó con código 0 (0x0).
+El subproceso 0x363c terminó con código 0 (0x0).
+El subproceso 0x273c terminó con código 0 (0x0).
+El subproceso 0x51dc terminó con código 0 (0x0).
+El subproceso 0x40d0 terminó con código 0 (0x0).
+El subproceso 0x1478 terminó con código 0 (0x0).
+El subproceso 0x2f6c terminó con código 0 (0x0).
+El subproceso 0x314c terminó con código 0 (0x0).
+El subproceso 0x20f0 terminó con código 0 (0x0).
+El subproceso 0x2f80 terminó con código 0 (0x0).
+El subproceso 0xc90 terminó con código 0 (0x0).
+El subproceso 0x4454 terminó con código 0 (0x0).
+El subproceso 0x1670 terminó con código 0 (0x0).
+El subproceso 0x46e0 terminó con código 0 (0x0).
+El subproceso 0x1d54 terminó con código 0 (0x0).
+El subproceso 0x23b0 terminó con código 0 (0x0).
+El subproceso 0x1440 terminó con código 0 (0x0).
+El subproceso 0x4ff0 terminó con código 0 (0x0).
+El subproceso 0x5420 terminó con código 0 (0x0).
+El subproceso 0x49dc terminó con código 0 (0x0).
+El subproceso 0x25c terminó con código 0 (0x0).
+El subproceso 0x44c8 terminó con código 0 (0x0).
+El subproceso 0x51a8 terminó con código 0 (0x0).
+El subproceso 0x36bc terminó con código 0 (0x0).
+El subproceso 0xa60 terminó con código 0 (0x0).
+El subproceso 0xea4 terminó con código 0 (0x0).
+El subproceso 0x4b10 terminó con código 0 (0x0).
+El subproceso 0x1114 terminó con código 0 (0x0).
+El subproceso 0x3d20 terminó con código 0 (0x0).
+El subproceso 0x3f28 terminó con código 0 (0x0).
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Web.HttpUtility.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El subproceso 0x2338 terminó con código 0 (0x0).
+El subproceso 0x138c terminó con código 0 (0x0).
+El subproceso 0x2240 terminó con código 0 (0x0).
+El subproceso 0x3ec8 terminó con código 0 (0x0).
+El subproceso 0x49b0 terminó con código 0 (0x0).
+El subproceso 0x57c0 terminó con código 0 (0x0).
+El subproceso 0x3890 terminó con código 0 (0x0).
+El subproceso 0x3b5c terminó con código 0 (0x0).
+El subproceso 0x4a60 terminó con código 0 (0x0).
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Reflection.Metadata.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Threading.Tasks.Parallel.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El subproceso 0x25b8 terminó con código 0 (0x0).
+El subproceso 0x1d98 terminó con código 0 (0x0).
+El subproceso 0x2238 terminó con código 0 (0x0).
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Globalization.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Diagnostics.Debug.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): '1e1rcvoc.4xl' cargado. 
+El subproceso 0x1f70 terminó con código 0 (0x0).
+El subproceso 0x461c terminó con código 0 (0x0).
+El subproceso 0x4278 terminó con código 0 (0x0).
+El subproceso 0x2b44 terminó con código 0 (0x0).
+El subproceso 0x2cec terminó con código 0 (0x0).
+El subproceso 0x5748 terminó con código 0 (0x0).
+El subproceso 0x56c4 terminó con código 0 (0x0).
+El subproceso 0x4bac terminó con código 0 (0x0).
+El subproceso 0x3a58 terminó con código 0 (0x0).
+El subproceso 0x3e44 terminó con código 0 (0x0).
+El subproceso 0x54c8 terminó con código 0 (0x0).
+El subproceso 0x25b4 terminó con código 0 (0x0).
+El subproceso 0x46c8 terminó con código 0 (0x0).
+El subproceso 0x4b74 terminó con código 0 (0x0).
+El subproceso 0x3d04 terminó con código 0 (0x0).
+El subproceso 0x48cc terminó con código 0 (0x0).
+El subproceso 0x503c terminó con código 0 (0x0).
+El subproceso 0x504 terminó con código 0 (0x0).
+El subproceso 0x467c terminó con código 0 (0x0).
+El subproceso 0x50b8 terminó con código 0 (0x0).
+El subproceso 0x232c terminó con código 0 (0x0).
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.Serialization.Formatters.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.Serialization.Primitives.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Runtime.Numerics.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\System.Diagnostics.TraceSource.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Users\w&k\Desktop\8vo semestre\desarrollo wed\proyectofinal\proyectofinal\proyectofinal\bin\Debug\net5.0\NSwag.Core.Yaml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.10\Microsoft.CSharp.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El subproceso 0x51a8 terminó con código 0 (0x0).
+El subproceso 0x42c4 terminó con código 0 (0x0).
+El subproceso 0x3fa4 terminó con código 0 (0x0).
+El subproceso 0x16d8 terminó con código 0 (0x0).
+El subproceso 0x1d18 terminó con código 0 (0x0).
+El subproceso 0x53b8 terminó con código 0 (0x0).
+El subproceso 0x1578 terminó con código 0 (0x0).
+El subproceso 0x3c90 terminó con código 0 (0x0).
+El subproceso 0x3778 terminó con código 0 (0x0).
+El subproceso 0xbf4 terminó con código 0 (0x0).
+El subproceso 0x1cac terminó con código 0 (0x0).
+El subproceso 0x22bc terminó con código 0 (0x0).
+El subproceso 0x5028 terminó con código 0 (0x0).
+El subproceso 0x515c terminó con código 0 (0x0).
+El subproceso 0x1fd8 terminó con código 0 (0x0).
+El subproceso 0x46d0 terminó con código 0 (0x0).
+El subproceso 0x3ee0 terminó con código 0 (0x0).
+El subproceso 0x240c terminó con código 0 (0x0).
+El subproceso 0x20f4 terminó con código 0 (0x0).
+El subproceso 0x2388 terminó con código 0 (0x0).
+El subproceso 0x514 terminó con código 0 (0x0).
+El subproceso 0xa38 terminó con código 0 (0x0).
+El subproceso 0x5758 terminó con código 0 (0x0).
+El subproceso 0x3558 terminó con código 0 (0x0).
+El subproceso 0x46ec terminó con código 0 (0x0).
+El subproceso 0x4870 terminó con código 0 (0x0).
+El subproceso 0x12e4 terminó con código 0 (0x0).
+El subproceso 0x23a0 terminó con código 0 (0x0).
+El subproceso 0x4e28 terminó con código 0 (0x0).
+El subproceso 0x5838 terminó con código 0 (0x0).
+El subproceso 0x4984 terminó con código 0 (0x0).
+El subproceso 0x5238 terminó con código 0 (0x0).
+El subproceso 0x2e0c terminó con código 0 (0x0).
+El subproceso 0x549c terminó con código 0 (0x0).
+El subproceso 0x45d0 terminó con código 0 (0x0).
+El subproceso 0x5720 terminó con código 0 (0x0).
+El subproceso 0xa34 terminó con código 0 (0x0).
+El subproceso 0x8a8 terminó con código 0 (0x0).
+El subproceso 0x3948 terminó con código 0 (0x0).
+El subproceso 0xb34 terminó con código 0 (0x0).
+El subproceso 0x3940 terminó con código 0 (0x0).
+El subproceso 0x340c terminó con código 0 (0x0).
+El subproceso 0x2a30 terminó con código 0 (0x0).
+El subproceso 0x3e04 terminó con código 0 (0x0).
+El subproceso 0x3c08 terminó con código 0 (0x0).
+El subproceso 0x5938 terminó con código 0 (0x0).
+El subproceso 0x4710 terminó con código 0 (0x0).
+El subproceso 0x77c terminó con código 0 (0x0).
+El subproceso 0x1dc4 terminó con código 0 (0x0).
+El subproceso 0x48f0 terminó con código 0 (0x0).
+El subproceso 0x3f80 terminó con código 0 (0x0).
+El subproceso 0x4bc terminó con código 0 (0x0).
+El subproceso 0x5550 terminó con código 0 (0x0).
+El subproceso 0x5b40 terminó con código 0 (0x0).
+El subproceso 0x3b18 terminó con código 0 (0x0).
+El subproceso 0x4984 terminó con código 0 (0x0).
+El subproceso 0x1eac terminó con código 0 (0x0).
+El subproceso 0x3d7c terminó con código 0 (0x0).
+El subproceso 0x3220 terminó con código 0 (0x0).
+El subproceso 0x3150 terminó con código 0 (0x0).
+El subproceso 0x4954 terminó con código 0 (0x0).
+El subproceso 0x4b10 terminó con código 0 (0x0).
+El subproceso 0x53c terminó con código 0 (0x0).
+El subproceso 0x57c8 terminó con código 0 (0x0).
+El subproceso 0x25bc terminó con código 0 (0x0).
+El subproceso 0x3edc terminó con código 0 (0x0).
+El subproceso 0x4e88 terminó con código 0 (0x0).
+El subproceso 0x4e20 terminó con código 0 (0x0).
+El subproceso 0x3ae0 terminó con código 0 (0x0).
+El subproceso 0x3968 terminó con código 0 (0x0).
+El subproceso 0x44c0 terminó con código 0 (0x0).
+El subproceso 0x49d0 terminó con código 0 (0x0).
+El subproceso 0x42fc terminó con código 0 (0x0).
+El subproceso 0x44fc terminó con código 0 (0x0).
+El subproceso 0x37a8 terminó con código 0 (0x0).
+El subproceso 0x1728 terminó con código 0 (0x0).
+El subproceso 0x1f14 terminó con código 0 (0x0).
+El subproceso 0x51d0 terminó con código 0 (0x0).
+El subproceso 0x3650 terminó con código 0 (0x0).
+El subproceso 0x4b80 terminó con código 0 (0x0).
+El subproceso 0x59b0 terminó con código 0 (0x0).
+El subproceso 0x11cc terminó con código 0 (0x0).
+El subproceso 0x42e8 terminó con código 0 (0x0).
+El subproceso 0x3d88 terminó con código 0 (0x0).
+El subproceso 0x49e8 terminó con código 0 (0x0).
+El subproceso 0x21e8 terminó con código 0 (0x0).
+El subproceso 0x37e0 terminó con código 0 (0x0).
+El subproceso 0x23b0 terminó con código 0 (0x0).
+El subproceso 0x48c0 terminó con código 0 (0x0).
+El subproceso 0x534c terminó con código 0 (0x0).
+El subproceso 0x3be8 terminó con código 0 (0x0).
+El subproceso 0x4df0 terminó con código 0 (0x0).
+El subproceso 0x3f0 terminó con código 0 (0x0).
+El subproceso 0x4d80 terminó con código 0 (0x0).
+El subproceso 0xe48 terminó con código 0 (0x0).
+El subproceso 0x4ec4 terminó con código 0 (0x0).
+El subproceso 0x45a4 terminó con código 0 (0x0).
+El subproceso 0x4cd8 terminó con código 0 (0x0).
+El subproceso 0x22f4 terminó con código 0 (0x0).
+El subproceso 0x24dc terminó con código 0 (0x0).
+El subproceso 0x589c terminó con código 0 (0x0).
+El subproceso 0x538c terminó con código 0 (0x0).
+El subproceso 0x46f0 terminó con código 0 (0x0).
+El subproceso 0x22cc terminó con código 0 (0x0).
+El subproceso 0x329c terminó con código 0 (0x0).
+El subproceso 0x1af0 terminó con código 0 (0x0).
+El subproceso 0x34d0 terminó con código 0 (0x0).
+El subproceso 0x1670 terminó con código 0 (0x0).
+El subproceso 0x2598 terminó con código 0 (0x0).
+El subproceso 0x2d7c terminó con código 0 (0x0).
+El subproceso 0x11dc terminó con código 0 (0x0).
+El subproceso 0x548c terminó con código 0 (0x0).
+El subproceso 0x3c24 terminó con código 0 (0x0).
+El subproceso 0x3f80 terminó con código 0 (0x0).
+El subproceso 0x3a84 terminó con código 0 (0x0).
+El subproceso 0x4268 terminó con código 0 (0x0).
+El subproceso 0x42a8 terminó con código 0 (0x0).
+El subproceso 0x4a34 terminó con código 0 (0x0).
+El subproceso 0x1bc8 terminó con código 0 (0x0).
+El subproceso 0x58f8 terminó con código 0 (0x0).
+El subproceso 0x4838 terminó con código 0 (0x0).
+El subproceso 0x129c terminó con código 0 (0x0).
+El subproceso 0x404c terminó con código 0 (0x0).
+El subproceso 0x50b8 terminó con código 0 (0x0).
+El subproceso 0x340c terminó con código 0 (0x0).
+El subproceso 0x2ffc terminó con código 0 (0x0).
+El subproceso 0x2860 terminó con código 0 (0x0).
+El subproceso 0x4c78 terminó con código 0 (0x0).
+El subproceso 0x4c8c terminó con código 0 (0x0).
+El subproceso 0x28d4 terminó con código 0 (0x0).
+El subproceso 0x28d0 terminó con código 0 (0x0).
+El subproceso 0x4d0 terminó con código 0 (0x0).
+El subproceso 0x3cc8 terminó con código 0 (0x0).
+El subproceso 0x3cb0 terminó con código 0 (0x0).
+El subproceso 0x50a8 terminó con código 0 (0x0).
+El subproceso 0x4dcc terminó con código 0 (0x0).
+El subproceso 0x1d4c terminó con código 0 (0x0).
+El subproceso 0x5034 terminó con código 0 (0x0).
+El subproceso 0x3cc8 terminó con código 0 (0x0).
+El subproceso 0x45c4 terminó con código 0 (0x0).
+El subproceso 0x84c terminó con código 0 (0x0).
+El subproceso 0x3914 terminó con código 0 (0x0).
+El subproceso 0xea4 terminó con código 0 (0x0).
+El subproceso 0x5a34 terminó con código 0 (0x0).
+El subproceso 0x4d28 terminó con código 0 (0x0).
+El subproceso 0x3cd0 terminó con código 0 (0x0).
+El subproceso 0x3d1c terminó con código 0 (0x0).
+El subproceso 0x4aac terminó con código 0 (0x0).
+El subproceso 0x47c8 terminó con código 0 (0x0).
+El subproceso 0x4e84 terminó con código 0 (0x0).
+El subproceso 0x5b0 terminó con código 0 (0x0).
+El subproceso 0x4bfc terminó con código 0 (0x0).
+El subproceso 0x4ab0 terminó con código 0 (0x0).
+El subproceso 0x3cac terminó con código 0 (0x0).
+El subproceso 0x1fb4 terminó con código 0 (0x0).
+El subproceso 0x5b58 terminó con código 0 (0x0).
+El subproceso 0x3f14 terminó con código 0 (0x0).
+El subproceso 0x40bc terminó con código 0 (0x0).
+El subproceso 0x1688 terminó con código 0 (0x0).
+El subproceso 0x4bb8 terminó con código 0 (0x0).
+El subproceso 0x1b80 terminó con código 0 (0x0).
+El subproceso 0x406c terminó con código 0 (0x0).
+El subproceso 0x1a04 terminó con código 0 (0x0).
+El subproceso 0x319c terminó con código 0 (0x0).
+El subproceso 0x48c8 terminó con código 0 (0x0).
+El subproceso 0x51c4 terminó con código 0 (0x0).
+El subproceso 0x5480 terminó con código 0 (0x0).
+El subproceso 0xb70 terminó con código 0 (0x0).
+El subproceso 0x59a0 terminó con código 0 (0x0).
+El subproceso 0x41d4 terminó con código 0 (0x0).
+El programa '[13404] iisexpress.exe' terminó con código -1 (0xffffffff).
